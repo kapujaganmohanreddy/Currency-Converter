@@ -14,11 +14,6 @@ A simple and intuitive web-based currency converter built with HTML, CSS, and Ja
     * [Fawazahmed0's Currency API](https://github.com/fawazahmed0/currency-api) for exchange rates.
     * [FlagsAPI.com](https://flagsapi.com/) for country flags.
 
-### Setup and Installation
-1.  **Clone the repository:** git clone https://github.com/kapujaganmohanreddy/currency-converter.git
-2.  **Navigate:** `cd currency-converter`
-3.  **Open:** Open `index.html` in your web browser.
-
 ### How to Use
 1.  Enter the amount.
 2.  Select "From" and "To" currencies.
